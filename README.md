@@ -31,7 +31,7 @@ To complete this lab, you will need to:
   1. The name cannot be blank
   1. The e-mail is unique
 1. Add validations to `Post` such that...
-  1. The title cannot be blank
+  1. The title cannot be blank 
   1. The category is either `"Fiction"` or `"Non-Fiction"`
   1. The content is at least 100 characters long.
 1. Change `AuthorsController#create` to re-render the form if the new author is invalid.
